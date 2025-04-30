@@ -1,0 +1,47 @@
+Help me assess the following assignments, I'll give you instruction as well on this.
+
+Assessment brief
+In this assessment, you are to select and apply suitable design principles to design and plan a solution to the given scenario. Your designs must be structured and presented professionally which includes all the details required to meet the client’s requirements.  With your Tutor’s approval, you will be only designing either the front-end or back-end solution for the client. The database requirements are compulsory in either case.  
+•	Create a customised logo and colour scheme for the business. [4 marks] 
+•	Design User-Interface, with mock-ups of all web pages for one screen size. Select one from desktop, tablet or mobile.  [10 marks]
+•	Plan a suitable relational database schema and present it using an Excel sheet. This means no repeated information wherever possible and data divided into appropriate tables. Be sure to specify the correct data types, keys and indexes such as auto increment in your plan.  [10marks]
+•	Outline the three visual design principles you considered and how you applied them. [6 marks]
+
+Scenario: Car Dealer Company
+Design a website to provide an advertising platform for a car dealer company. The purchase of vehicles will take place in person. You will need to meet the client requirements for the car dealer company with your website. 
+Company Name: Carland
+Address: 123 New Zealand Road, Hamilton, 3200
+Ph: 0800 815 6458
+email- carland@gmail.com
+
+You must create the following information for your company:
+•	Logo
+•	Colour scheme
+NOTE: Your website's design must reflect the company’s logo and selected colour scheme.
+
+Client Requirements - 
+Front end
+•	Home page showing all vehicles from Database
+•	Browse single-vehicle details
+•	User should be able to sign up and log in to  gain Wishlist functionality
+•	Ability to add vehicles to the Wishlist (only for registered users)
+•	Ability to delete vehicles from the Wishlist (only for registered users)
+Database - 
+•	Create a database to hold vehicles and other necessary information such as user, Wishlist, staff etc.
+•	Vehicle Details minimum requirements
+o	Vehicle make (e.g. Honda, Subaru, Jeep)
+o	Vehicle model 
+o	Colour
+o	Type (e.g. saloon, hatch, SUV, truck)
+o	Fuel type (e.g. petrol, diesel, electric, hybrid, bio …) 	
+o	Year (e.g. 1989, 1956)
+o	Safety Rating (e.g. Honda Civic has a safety rating of 4/5, Subaru Legacy a rating of 3/5 and so on)
+o	Vehicle image
+o	4 makes and 3 models of each make.  
+Back End - Secured administrator pages that allow the following functionality:
+•	Login page for Admin
+•	Home page showing all vehicles from the database
+•	Add new vehicle data 
+•	Edit vehicle details
+•	Delete vehicle data
+Note- Make any assumption, if necessary. You must document additional information.
